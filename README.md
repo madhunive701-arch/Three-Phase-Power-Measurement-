@@ -133,4 +133,4 @@ UNBALANCED LOAD
 
 RESULT:
 
-Thus, the measurement of power is simulated  and validated.
+Thus, the measurement of power is simulated  and validated in virtual labs
