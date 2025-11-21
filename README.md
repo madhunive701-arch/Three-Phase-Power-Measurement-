@@ -1,6 +1,7 @@
 # Three-Phase-Power-Measurement-
 Aim of the experiment
 Three phase power measurement by two wattmeter method.
+
 Theory
 
 <img width="940" height="590" alt="image" src="https://github.com/user-attachments/assets/7562752c-7646-46dd-8b39-5706d7ad26d3" />
